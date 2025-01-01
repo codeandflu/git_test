@@ -1,0 +1,16 @@
+git commands 
+
+to check status
+git status 
+
+to add to staging area 
+git add {filename}
+
+to commit chages 
+git commit -m "Add {filename}"
+
+For seeing logs 
+git log
+
+To publish to GitHub
+git push
